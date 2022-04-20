@@ -1,79 +1,79 @@
 .container {
-    background-color: gray;
-    height: 100%;
+  background-color: gray;
+  height: 100%;
 }
 
 .wrapper {
-    margin: 0px auto;
-    padding-left: 20px;
-    width: 320px;
-    background-color: white;
+  margin: auto;
+  padding-left: 20px;
+  width: 320px;
+  background-color: white;
 }
 
 header {
-    display: flex;
-    display: block;
-    flex-direction: column;
-    padding-top: 50px;
-    font-size: 14px;
+  display: flex;
+  display: block;
+  flex-direction: column;
+  padding-top: 50px;
+  font-size: 14px;
 }
 
 .headline {
-    min-height: 51px;
+  min-height: 51px;
 }
 
 .btn {
-    display: inline-flex;
-    padding: 10px;
+  display: inline-flex;
+  padding: 10px;
 }
 
 .image {
-    display: inline-flex;
-    flex-basis: 100%;
-    font-size: 10.33px;
-    padding: 6px 10px 6px 9px;
+  display: inline-flex;
+  flex-basis: 100%;
+  font-size: 10.33px;
+  padding: 6px 10px 6px 9px;
 }
 
 img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 278px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 278px;
 }
 
 .headline img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 50px;
-    flex-direction: row;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 50px;
+  flex-direction: row;
 }
 
 .im {
-    display: inline-flex;
-    width: 70px;
+  display: inline-flex;
+  width: 70px;
 }
 
 .tex {
-    line-height: 27px;
-    size: 18px;
-    text-align: center;
-    padding-left: 10px;
-    text-justify: auto;
-    width: 250px;
+  line-height: 27px;
+  size: 18px;
+  text-align: center;
+  padding-left: 10px;
+  text-justify: auto;
+  width: 250px;
 }
 
 .butt button {
-    display: block;
-    width: 246px;
-    height: 51px;
-    margin: 10px;
-    text-align: center;
-    border-radius: 10px;
-    transition-duration: 0.3s;
+  display: block;
+  width: 246px;
+  height: 51px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 10px;
+  transition-duration: 0.3s;
 }
 
 .butt button:hover {
-    background-color: orange;
-    color: white;
+  background-color: orange;
+  color: white;
 }
