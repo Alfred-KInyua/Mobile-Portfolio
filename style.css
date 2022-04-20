@@ -1,0 +1,9 @@
+.wrapper{display:inline-flex;flex-direction: column; } 
+ header{border:1px solid black;}
+.headline{border:1px solid blue; min-height: 51px;}
+.btn{border:1px solid black;
+     display:inline-flex; flex: 1; 
+    font-weight: 300px lighter; 
+    font-size: 10.33px;
+    line-height: 8.27px;
+    padding: 6px 10px 6px 9px;}
