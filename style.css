@@ -1,6 +1,5 @@
 body {
-  font: 'Poppins';
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family:'Poppins';
 }
 
 .container {
@@ -125,7 +124,7 @@ li {
 section {
   display: flex;
   flex-wrap: wrap;
-  text-align: left
+  text-align: left;
 }
 
 .firstparagraph {
