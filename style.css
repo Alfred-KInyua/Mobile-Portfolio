@@ -70,9 +70,9 @@
 
 @media only screen and (max-width: 600px) {
   .main-content {
-  margin-bottom: 0;
-  height: 100%;
-  background-position: center;
-  background-size: cover;
+    margin-bottom: 0;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
   }
 }
