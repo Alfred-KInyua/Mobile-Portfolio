@@ -33,7 +33,7 @@ h1 {
   letter-spacing: 0;
   text-align: left;
   color: #172b4d;
-  margin-left: 3%;
+  margin-left: 6%;
   margin-top: 180px;
 }
 
@@ -45,7 +45,7 @@ h1 {
   font-weight: lighter;
   font-size: 16px;
   line-height: 24px;
-  margin-left: -6%;
+  margin-left: 7%;
   height: 146px;
   width: 327px;
   left: 24px;
@@ -62,7 +62,7 @@ h1 {
   text-align: left;
   list-style: none;
   margin-top: 30px;
-  margin-left: -7%;
+  margin-left: 7%;
   color: blue;
   text-decoration: none;
 }
