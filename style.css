@@ -68,14 +68,14 @@ h1 {
 }
 
 .social ul {
-    display: flex;
-    list-style: none;
-    justify-content: space-evenly;
-    margin: 38%;
-    margin-top: -1%;
-    margin-left: -5%;
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  margin: 38%;
+  margin-top: -1%;
+  margin-left: -5%;
 }
 
 .social li {
-    flex: auto;
+  flex: auto;
 }
