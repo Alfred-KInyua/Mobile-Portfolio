@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.container {
+  margin: 0 auto;
+  width: 375px;
+  height: 1263px;
+}
+
+main {
+  list-style: none;
+  position: relative;
+  top: 7%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.paragraph_one {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 0;
+  text-align: left;
+  color: #172b4d;
+  height: auto;
+  margin-left: 9%;
+  margin-bottom: -2%;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 9px;
+  grid-auto-columns: auto;
+}
+
+.paragraph {
+  width: 327px;
+  height: 144px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  list-style: none;
+}
+
+.list_item_one {
+  grid-column: 1/5;
+  width: 327px;
+  height: 144px;
+  left: 0;
+  top: 113px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.list_item_two {
+  grid-column: 1/5;
+  width: 200px;
+  height: 24px;
+  left: 0;
+  top: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+}
+
+.icons {
+  display: flex;
+  list-style: none;
+  width: 42%;
+  margin-top: 12%;
+  column-gap: 14px;
+}
+
+button {
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #396df2;
+  width: 200px;
+  height: 40px;
+  left: 12px;
+  top: 12px;
+  background-color: unset;
+  border-radius: 10px;
+  margin-left: 9%;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button :hover {
+  background-color: #4caf50;
+  color: white;
+}
+
+.section1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 54px;
+  color: black;
+  margin-left: 10%;
+}
+
+.languages {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  font-size: 20px;
+  margin-left: 0%;
+  list-style: none;
+}
+
+.languages :hover {
+  background-color: gray;
+  color: #f7f7f9;
+  cursor: pointer;
+}
+
+.l-items {
+  display: flex;
+  margin: 6px;
+  background: #f7f7f9;
+}
+
+.frames {
+  display: flex;
+  flex-direction: column;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  align-items: center;
+  list-style: none;
+}
+.btm1 { margin-bottom: -78%; }
+.btm2 { margin-top: 41%; }
+
+.side1 {
+  margin-bottom: -17%;
+  margin-right: -66%;
+}
+
+.side2 {
+  margin-top: -13%;
+  margin-left: 68%;
+}
+
+#pragraph_1 {
+  margin-top: 13%;
+  margin-left: 7%;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
