@@ -88,6 +88,28 @@ h2 {
   grid-template-columns: 5fr 1fr;
 }
 
+button {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: unset;
+  color: #396df2;
+  text-align: center;
+  border: 1px solid #396df2;
+}
+
+.projects {
+  display: flex;
+  position: relative;
+  bottom: -50px;
+  left: 1px;
+  margin-left: 2%;
+}
+
 button:hover {
   background-color: lightgray;
   color: white;
