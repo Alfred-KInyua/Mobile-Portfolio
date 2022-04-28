@@ -206,12 +206,17 @@ button:active {
   border-radius: 8px;
   padding: 7px;
 }
-.tech1:hover,.tech2:hover,.tech3:hover {
+
+.tech1:hover,
+.tech2:hover,
+.tech3:hover {
   background-color: lightgray;
   color: white;
 }
 
-.tech1:active, .tech2:active, .tech3:active {
+.tech1:active,
+.tech2:active,
+.tech3:active {
   background-color: gray;
 }
 
