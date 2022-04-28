@@ -17,7 +17,7 @@ a:link {
   background-image: url("images/background.png");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: -2px 40px;
+  background-position: -2px 28px;
 }
 
 .container > * {
@@ -100,14 +100,8 @@ button {
   color: #396df2;
   text-align: center;
   border: 1px solid #396df2;
-}
-
-.projects {
-  display: flex;
-  position: relative;
-  bottom: -50px;
-  left: 1px;
-  margin-left: 2%;
+  width: 63%;
+  padding: 5px;
 }
 
 button:hover {
