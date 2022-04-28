@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header > * {
+  background-color: lightblue;
+  border: 1px solid black;
+  flex: 1 1 30em;
+}
