@@ -193,6 +193,7 @@ button:active {
 }
 
 .tech {
+  float: right;
 
   /* display: flex;
   justify-content: space-evenly;
@@ -203,8 +204,8 @@ button:active {
 .tech1,
 .tech2,
 .tech3 {
-  float:left;
-  display:inline;
+  float: right;
+  display: inline;
   background: #ebebff;
   border-radius: 8px;
   padding: 7px;
