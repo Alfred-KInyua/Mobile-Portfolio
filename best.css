@@ -202,6 +202,7 @@ button:active {
 .tech1,
 .tech2,
 .tech3 {
+  display: inline;
   background: #ebebff;
   border-radius: 8px;
   padding: 7px;
