@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# MObile Portfolio Project
+# Desktop Portfolio Project
 
-> This project demonstrates how to use Flex box to design a dynamic mobile portfolio website.
+> This project demonstrates how to use Grid and Flexbox box to design a dynamic Desktop portfolio website.
 For quality assurance, linters and code reviewers were engaged 
 
 
