@@ -642,6 +642,7 @@ footer {
     display: none;
   }
 }
+
 /* About me media rule section  */
 @media (max-width: 500px) {
   .last {
@@ -724,7 +725,7 @@ footer {
   }
 }
 
-/* contact section media rule*/
+/* contact section media rule */
 @media only screen and (max-width: 500px) {
   .talk,
   .contact-me,
