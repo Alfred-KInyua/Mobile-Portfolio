@@ -1,16 +1,10 @@
 name: Linters
-<<<<<<< HEAD
-on: pull_request
-env:
-  FORCE_COLOR: 1
-=======
 
 on: pull_request
 
 env:
   FORCE_COLOR: 1
 
->>>>>>> a967f3b6b3518f9319cc077707283f0ac121bcac
 jobs:
   lighthouse:
     name: Lighthouse
@@ -51,8 +45,4 @@ jobs:
           npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
           [ -f .stylelintrc.json ] || wget https://raw.githubusercontent.com/microverseinc/linters-config/master/html-css/.stylelintrc.json
       - name: Stylelint Report
-<<<<<<< HEAD
         run: npx stylelint "**/*.{css,scss}"
-=======
-        run: npx stylelint "**/*.{css,scss}"
->>>>>>> a967f3b6b3518f9319cc077707283f0ac121bcac
