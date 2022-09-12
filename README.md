@@ -6,6 +6,9 @@
 For quality assurance, linters and code reviewers were engaged 
 
 
+## Live Demo
+
+Click [here](https://alfred-kinyua.github.io/Mobile-portfolio.) to check out the online version
 
 ## Built With
 
